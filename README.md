@@ -1,69 +1,64 @@
-# مصائب وریتاس (Misery of Veritas)
+# Misery of Veritas
 
-## معرفی
-به مصائب وریتاس خوش آمدید، داستانی تعاملی و فلسفی که با استفاده از Twine ساخته شده است. در این ماجراجویی، شما در نقش وریتاس، الهه حقیقت، قرار می‌گیرید و با مجموعه‌ای از معماها و تصمیمات اخلاقی مواجه می‌شوید.
+## Introduction
+Welcome to Misery of Veritas, an interactive philosophical narrative created using Twine. In this journey, you'll take on the role of Veritas, the goddess of truth, facing a series of puzzles and moral decisions.
 
-## فهرست مطالب
-- [درباره بازی](#درباره-بازی)
-- [ویژگی‌ها](#ویژگی‌ها)
-- [شروع به کار](#شروع-به-کار)
-- [توسعه](#توسعه)
-- [مشارکت](#مشارکت)
-- [مجوز](#مجوز)
-- [تماس](#تماس)
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Play Now](#play-now)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
 
-## درباره بازی
-مصائب وریتاس یک داستان تعاملی به زبان فارسی است که با استفاده از Twine و فرمت Harlowe ایجاد شده است. موضوعات اصلی بازی شامل:
-- اخلاق
-- هویت
-- واقعیت
-- معماهای فلسفی
+## About
+Misery of Veritas is an interactive story created using Twine and Harlowe format. The main themes include:
+- Ethics
+- Identity
+- Reality
+- Philosophical Dilemmas
 
-## ویژگی‌ها
-- 🎮 داستان تعاملی
-- 🔄 پایان‌های متعدد
-- 🤔 موضوعات فلسفی
-- 🇮🇷 زبان فارسی
-- 🌐 دسترسی آسان
+## Features
+- 🎮 Interactive Storytelling
+- 🔄 Multiple Endings
+- 🤔 Philosophical Challenges
+- 🌐 Easy Access
+- 📱 Browser-based Gameplay
 
-## شروع به کار
+## Play Now
+You can play the game online at:
+[https://i-rgh.github.io/Misery-of-Veritas/](https://i-rgh.github.io/Misery-of-Veritas/)
 
-### پیش‌نیازها
-```
-- مرورگر وب مدرن (Chrome، Firefox، Safari، Edge)
-- آشنایی با زبان فارسی
-```
+## Development
+### Editing the Story with Twine
+1. Download Twine
+2. Import Project
+3. Edit Story
+4. Publish to File
 
-### اجرای بازی
-#### نصب محلی
+## Contributing
 ```bash
-git clone https://github.com/i-rgh/Misery-of-Veritas.git
-```
-
-## توسعه
-### ویرایش داستان با Twine
-1. دانلود Twine
-2. وارد کردن پروژه
-3. ویرایش داستان
-4. انتشار به فایل
-
-## مشارکت
-```bash
-# فورک و کلون
+# Fork and Clone
 git clone https://github.com/YOUR-USERNAME/Misery-of-Veritas.git
 
-# ایجاد برنچ جدید
-git checkout -b feature/نام-ویژگی
+# Create new branch
+git checkout -b feature/feature-name
 
-# کامیت تغییرات
-git commit -am 'افزودن سناریوی جدید'
+# Commit changes
+git commit -am 'Add new scenario'
 
-# پوش
-git push origin feature/نام-ویژگی
+# Push
+git push origin feature/feature-name
 ```
 
-## تماس
-- 👤 نگهدارنده: i-rgh
-- 📧 ایمیل: bghavipor@gmail.com
+### Contribution Guidelines
+- Report bugs by opening an Issue
+- Add new scenarios or ethical dilemmas
+- Help with translations
+- Improve documentation
+
+## License
+This project is licensed under the MIT License.
+
 ---
-*با تشکر از علاقه شما به مصائب وریتاس. امیدواریم از داستان و سفر فلسفی که پیش روی شماست، لذت ببرید!*
+*Thank you for your interest in Misery of Veritas. We hope you enjoy the philosophical journey ahead!*
